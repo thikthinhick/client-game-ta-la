@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     height: 40,
     position: 'relative',
     fontSize: 20,
-    marginBottom: 5,
+    marginBottom: 10,
   },
 });
 const mapStateToProps = (state) => {
